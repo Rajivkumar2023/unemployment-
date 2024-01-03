@@ -12,9 +12,9 @@
     /* padding: 20px; */
     /* margin-top:30px; */
     /* padding-top:6vmax; */
-    top: 50%;
+    top: 60%;
     left: 50%;
-    transform: translate(-50%, -50%);
+    transform: translate(-50%, -60%);
     position: absolute;
   }
 
@@ -57,9 +57,9 @@ input[type=text], select, textarea {
     /* padding: 20px; */
     /* margin-top:30px; */
     /* padding-top:6vmax; */
-    top: 50%;
+    top: 60%;
     left: 50%;
-    transform: translate(-50%, -50%);
+    transform: translate(-50%, -60%);
     position: absolute;
   }
   }
