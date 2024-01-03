@@ -150,6 +150,7 @@ nav ul li a:hover {
     left: 50%;
     transform: translate(-50%, -50%);
     font-size: 1.8vw;
+    flex-wrap: nowrap;
   }
 
 
@@ -252,6 +253,7 @@ nav ul li a:hover {
     left: 50%;
     transform: translate(-50%, -50%);
     font-size: 2.2vw;
+    flex-wrap: nowrap;
   }
 
 }   
@@ -362,6 +364,7 @@ nav ul li a:hover {
     left: 50%;
     transform: translate(-50%, -50%);
     font-size: 2.8vw;
+    flex-wrap: nowrap;
   }
 
 
